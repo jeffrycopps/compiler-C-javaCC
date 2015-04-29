@@ -1,0 +1,3 @@
+main int fun 0 null null null 
+a int null volatile auto 4 null 
+i int null volatile auto 4 null 

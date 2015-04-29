@@ -1,0 +1,23 @@
+t=2
+t=a==2
+if(not t)
+goto end_1
+t0=1+2
+a=t0
+end_1
+goto end_0
+t=1
+t=a==1
+if(not t)
+goto end_2
+a=2
+end_2
+t=2
+t=a==2
+if(not t)
+goto end_3
+a=3
+end_3
+default: 
+a=4
+end_0

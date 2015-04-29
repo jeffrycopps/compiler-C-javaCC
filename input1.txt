@@ -1,0 +1,11 @@
+int main()
+{
+int a,b;
+a=3;
+}
+
+int fun()
+{
+int a;
+
+}

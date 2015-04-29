@@ -1,0 +1,11 @@
+a=10
+b=20
+t0=a<b
+
+if (not t0) 
+goto false_0
+b=1
+goto end_0
+false_0:
+b=0
+end_0:

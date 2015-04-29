@@ -1,0 +1,5 @@
+main int fun 1 null null null 
+a char null null null 10 null 
+pointer int null volatile auto 4 1 
+dp int null volatile auto 4 2 
+p int null volatile auto 40 1 

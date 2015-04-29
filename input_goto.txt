@@ -1,0 +1,7 @@
+int main()
+{
+int i;
+l1:
+i=i+1;
+goto l1;
+}

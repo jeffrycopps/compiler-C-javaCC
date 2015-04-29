@@ -1,0 +1,11 @@
+int main()
+{
+int a,i;
+//while(a)
+for(i=0;i<10;i++)
+{
+/*a=a+10;
+b=b+10;
+*/
+}
+}

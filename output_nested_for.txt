@@ -1,0 +1,28 @@
+i=0
+begin_0
+t0=i<10
+if(not t0)
+goto end_0
+goto body_0
+inc_0:
+t1=i+1
+i=t1
+goto begin_0
+body_0:
+j=0
+begin_1
+t2=j<10
+if(not t2)
+goto end_1
+goto body_1
+inc_1:
+t3=j+1
+j=t3
+goto begin_1
+body_1:
+t4=j%2
+j=t4
+goto inc_1
+end_1
+goto inc_0
+end_0

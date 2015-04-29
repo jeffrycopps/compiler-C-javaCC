@@ -1,0 +1,30 @@
+a=0
+b=1
+t0=a<10
+begin_0:
+if (not t0)
+goto end_0
+b=0
+t1=b>0
+if(not t1)
+goto end_1
+goto body_1
+inc_1:
+t2=b-1
+b=t2
+goto begin_1
+body_1:
+t3=b%2
+t4=t3==0
+
+if (not t4) 
+goto false_2
+b=1
+goto end_2
+false_2:
+b=0
+end_2:
+goto inc_1
+end_1
+goto begin_0
+end_0

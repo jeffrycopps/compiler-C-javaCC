@@ -1,0 +1,14 @@
+i=0
+i=0
+t0=i<10
+if(not t0)
+goto end_0
+goto body_0
+inc_0:
+t1=i+1
+i=t1
+goto begin_0
+body_0:
+a=a+i
+goto inc_0
+end_0

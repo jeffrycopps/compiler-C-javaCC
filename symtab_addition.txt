@@ -1,0 +1,5 @@
+main int fun 0 null null null 
+a int null volatile auto 4 null 
+b int null volatile auto 4 null 
+c char null volatile auto 1 null 
+sol int null volatile auto 4 null 

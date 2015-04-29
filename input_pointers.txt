@@ -1,0 +1,6 @@
+int main(char a[10])
+{
+int *pointer;
+int **dp;
+int *p[10];
+}

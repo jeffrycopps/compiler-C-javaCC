@@ -1,0 +1,16 @@
+int main()
+{
+int i,a,b;
+switch(a)
+{
+case 2:
+  a=1+2;
+   break;
+case 1:
+  a=2;
+case 2:
+  a=3;
+default: 
+  a=4;
+}
+}

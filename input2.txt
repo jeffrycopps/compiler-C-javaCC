@@ -1,0 +1,12 @@
+int main()
+{
+int a=0,b=1;
+while(a<10)
+{
+ for(b=0;b>0;b--)
+  if(b%2==0)
+    b=1;
+   else
+    b=0;
+}
+}
